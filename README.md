@@ -23,5 +23,7 @@
 
 ## SCREENSHOTS
 
-![](screenshots/Capture.png)
+![](screenshots/Capture.PNG)
 
+
+![](screenshots/2.PNG)
