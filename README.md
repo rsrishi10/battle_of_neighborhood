@@ -7,15 +7,15 @@
   you prescribe that they open it? 
 
 ## LIBRARY USED
-  numpy  
-  json
-  pandas
-  Nominatim
-  geocoder
-  BeautifulSoup
-  matplotlib
-  sklearn
-  folium
+  <br>numpy</br>
+  <br>json</br>
+  <br>pandas</br>
+  <br>Nominatim</br>
+  <br>geocoder</br>
+  <br>BeautifulSoup</br>
+  <br>matplotlib</br>
+  <br>sklearn</br>
+  <br>folium</br>
 
 ## DATA SOURCE
 
